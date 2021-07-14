@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'tiestestapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5ce10d2649bf49a9b46c1ede574e2079 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_bc0ea6297e0a4563b19f66d135349730 }}
